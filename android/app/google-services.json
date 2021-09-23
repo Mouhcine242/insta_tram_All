@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77323721061",
+    "project_id": "download-images-70656",
+    "storage_bucket": "download-images-70656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77323721061:android:d85406670b13acb3c7a98c",
+        "android_client_info": {
+          "package_name": "com.example.insta_trame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77323721061-j929s1pbooad2v3m9698d1ing8es9mra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYgnNHlzrKLdIZD9ALVHBgVmP7_FtV058"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77323721061-j929s1pbooad2v3m9698d1ing8es9mra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
